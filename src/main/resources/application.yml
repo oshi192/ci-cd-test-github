@@ -3,11 +3,12 @@ server:
     include-message: always
     include-binding-errors: always
 
+
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/amigoscode
-    username: postgres
-    password: root3
+    username: root
+    password: rootroot
   jpa:
     hibernate:
       ddl-auto: update

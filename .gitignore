@@ -4,7 +4,6 @@
 # Log file
 *.log
 .idea
-.mvn
 # BlueJ files
 *.ctxt
 target
@@ -13,7 +12,7 @@ target
 .mtj.tmp/
 
 # Package Files #
-*.jar
+
 *.war
 *.nar
 *.ear
